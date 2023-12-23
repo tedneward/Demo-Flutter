@@ -1,0 +1,9 @@
+syntax: glob
+
+bin/*
+.classpath
+.gradle/*
+.project
+.settings/*
+build/*
+target/*
